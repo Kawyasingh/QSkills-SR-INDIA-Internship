@@ -1,1 +1,0 @@
-# QSkills-SR-INDIA-Internship
