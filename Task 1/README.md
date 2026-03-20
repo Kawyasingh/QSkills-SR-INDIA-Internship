@@ -6,29 +6,14 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 [![Dataset](https://img.shields.io/badge/Dataset-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mohansacharya/graduate-admissions)
-[![Best R²](https://img.shields.io/badge/Best%20R²-0.821-brightgreen?style=for-the-badge)]()
 [![License](https://img.shields.io/badge/License-MIT-1abc9c?style=for-the-badge)](../LICENSE.md)
 
 > Predicts a student's **probability of graduate college admission** (as a continuous value between 0 and 1) from 7 academic and profile features — using a `GridSearchCV`-powered model comparison across 6 regression algorithms.
 
-[🔙 Back to Main Repository](https://github.com/shsarv/Machine-Learning-Projects)
+
 
 </div>
 
----
-
-## 📌 Table of Contents
-
-- [About the Project](#-about-the-project)
-- [Dataset](#-dataset)
-- [Features](#-features)
-- [Methodology](#-methodology)
-- [Model Comparison Results](#-model-comparison-results)
-- [Final Model Performance](#-final-model-performance)
-- [Sample Predictions](#-sample-predictions)
-- [Project Structure](#-project-structure)
-- [Getting Started](#-getting-started)
-- [Tech Stack](#-tech-stack)
 
 ---
 
