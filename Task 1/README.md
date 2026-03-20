@@ -153,32 +153,7 @@ Getting Admission in College Prediction/
 
 ---
 
-## 🚀 Getting Started
 
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/shsarv/Machine-Learning-Projects.git
-cd "Machine-Learning-Projects/Getting Admission in College Prediction"
-```
-
-### 2. Set up environment
-
-```bash
-python -m venv venv
-source venv/bin/activate        # Linux / macOS
-venv\Scripts\activate           # Windows
-
-pip install -r requirements.txt
-```
-
-### 3. Launch the notebook
-
-```bash
-jupyter notebook Admission_prediction.ipynb
-```
-
----
 
 ## 🛠️ Tech Stack
 
