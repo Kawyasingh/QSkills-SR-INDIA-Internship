@@ -1,4 +1,4 @@
-# 📊 Loan Repayment Prediction
+# 📊 Predict Employee Turnover
 
 ## 🛠️ Tech Stack
 
@@ -10,17 +10,17 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
 ## 🚀 Overview
-This project builds a machine learning model to predict whether a borrower will repay a loan or default based on financial and personal attributes.
+This project uses machine learning to predict whether an employee is likely to leave the company.  
 
-The goal is to reduce lending risk using data-driven decisions.
+The goal is to help organizations reduce attrition by identifying at-risk employees early.
 
 ---
 
 ## 🎯 Problem Statement
-Loan defaults are a major problem in the financial sector.  
-This project classifies loan applicants into:
-- Likely to repay  
-- Likely to default  
+Employee turnover is costly and impacts productivity.  
+This project classifies employees into:
+- Likely to stay  
+- Likely to leave  
 
 ---
 
@@ -31,14 +31,19 @@ This project classifies loan applicants into:
 - Encoded categorical variables  
 - Feature scaling applied  
 
-### 2. Model Building
+### 2. Exploratory Data Analysis (EDA)
+- Correlation heatmap  
+- Distribution analysis  
+- Feature relationships  
+
+### 3. Model Building
 - Logistic Regression  
 - Random Forest Classifier  
 
-### 3. Evaluation
+### 4. Evaluation
 - Accuracy  
 - Confusion Matrix  
 - Precision, Recall, F1-score  
 
 ---
-t
+
